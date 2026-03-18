@@ -1,8 +1,8 @@
 - name: Devices
   dropdown: 
-    - name: Xiaomi Redmi Note 10 (Sunny/Mojito)
+    - name: Xiaomi Redmi Note 10 (sunny/mojito)
       link: /devices/sunny/
-    - name: Xiaomi Redmi Note 11 (Spes/Spesn)
+    - name: Xiaomi Redmi Note 11 (spes/spesn)
       link: /devices/spesn/
     - name: Samsung Galaxy Note 10.1 2014 Edition (n1awifi)
       link: /devices/n1awifi/
