@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Latest software releases for the Xiaomi Redmi Note 10 (Sunny/Mojito)
-hide_hero: true
+hero_height: is-fullwidth
 callouts: sunny
 image: /devices/sunny.png
 ---
