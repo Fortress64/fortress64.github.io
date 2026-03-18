@@ -15,8 +15,6 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://picsum.photos/id/10/600/480
-    show_sidebar: false
   
 social:
   threads: https://www.threads.net/
