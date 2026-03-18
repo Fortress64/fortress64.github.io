@@ -17,3 +17,12 @@ collections:
     layout: product
     image: https://picsum.photos/id/10/600/480
     show_sidebar: false
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+  
