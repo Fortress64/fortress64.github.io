@@ -12,7 +12,7 @@
     - name: Android Live Recovery USB software
       link: /downloads/android-live-recovery-usb/
 
-- name: Additional Manuals
+- name: Manuals
   dropdown: 
     - name: ROM installation
       link: /manuals/rom-installation/
