@@ -15,4 +15,19 @@ social:
   threads: https://www.threads.net/
   youtube: https://www.youtube.com/@Fortress64
 
-author: "Palatinux Maximus"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Palatinux Maximus"
+      layout: post
+      image: https://picsum.photos/id/16/800/600
+      show_sidebar: false
