@@ -11,3 +11,9 @@ fixed_navbar: top
 theme_color: '#dddddd'
 force_theme: light
 
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://picsum.photos/id/10/600/480
+    show_sidebar: false
