@@ -10,7 +10,7 @@
 - name: Downloads
   dropdown: 
     - name: Android Live Recovery USB software
-      link: /downloads/android-live-recovery/
+      link: /downloads/android-live-recovery-usb/
 
 - name: Additional Manuals
   dropdown: 
