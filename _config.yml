@@ -15,17 +15,12 @@ collections:
   devices: 
     output: true
     layout: product
-    image: https://picsum.photos/id/10/600/480
-    show_sidebar: false
 
   downloads: 
     output: true
     layout: product
-    image: https://picsum.photos/id/10/600/480
-    show_sidebar: false
 
   manuals: 
     output: true
     layout: product
-    image: https://picsum.photos/id/10/600/480
-    show_sidebar: false
+
