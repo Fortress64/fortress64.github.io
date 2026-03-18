@@ -11,16 +11,3 @@ fixed_navbar: top
 theme_color: '#dddddd'
 force_theme: light
 
-collections:
-  devices: 
-    output: true
-    layout: product
-
-  downloads: 
-    output: true
-    layout: product
-
-  manuals: 
-    output: true
-    layout: product
-
