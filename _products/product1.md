@@ -16,9 +16,12 @@ features:
 rating: 3
 buttons:
     - url: https://example.com/product/ABC124
-      text: Buy it now
+      text: Buy on Amazon
       class: is-primary
       icon: fa-shopping-cart
+    - url: https://example.com/item/123
+      text: Buy on eBay
+      class: is-link
 ---
 
 This is the content about the product.
