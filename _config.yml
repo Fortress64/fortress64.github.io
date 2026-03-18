@@ -26,3 +26,6 @@ plugins:
   - kramdown-parser-gfm
   - jekyll-redirect-from
   
+social:
+  threads: https://www.threads.net/
+  youtube: https://www.youtube.com/@Fortress64
