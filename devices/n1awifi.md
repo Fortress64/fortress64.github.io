@@ -1,7 +1,7 @@
 ---
 layout: page
 menubar: menu
-title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest software releases for the Android Live Recovery USB.
+subtitle: Latest software releases for the Samsung Galaxy Note 10.1 Wi-Fi (2014).
+hero_height: is-fullwidth
 callouts: n1awifi
 ---
