@@ -1,0 +1,20 @@
+- name: Devices
+  dropdown: 
+    - name: Xiaomi Redmi Note 10 (Sunny/Mojito)
+      link: /devices/sunny/
+    - name: Xiaomi Redmi Note 11 (Spes/Spesn)
+      link: /devices/spesn/
+    - name: Samsung Galaxy Note 10.1 2014 Edition (n1awifi)
+      link: /devices/n1awifi/
+
+- name: Downloads
+  dropdown: 
+    - name: Android Live Recovery USB software
+      link: /downloads/android-live-recovery/
+
+- name: Additional Manuals
+  dropdown: 
+    - name: ROM installation
+      link: /manuals/rom-installation/
+    - name: EDL recovery - debricking
+      link: /manuals/edl-recovery/
