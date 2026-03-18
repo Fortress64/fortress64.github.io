@@ -1,14 +1,24 @@
 ---
-title: crDroid+ v12.2 | Android 16
-subtitle: Released on October 23, 2025.
-description: Enjoy the latest features and improvements with crDroid+.
+title: Product 1 Name
+subtitle: Product 1 tagline here
+description: This is a product description
+product_code: ABC124
 layout: product
-image: https://upload.wikimedia.org/wikipedia/commons/2/2c/CrDroid_logo.svg
+image: https://picsum.photos/id/10/600/480
+price: £1.99 + VAT
+features:
+    - label: Great addition to any home
+      icon: fa-location-arrow
+    - label: Comes in a range of styles
+      icon: fa-grin-stars
+    - label: Available in multiple sizes
+      icon: fa-fighter-jet
+rating: 3
 buttons:
-    - url: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
-      text: Download crDroid+ v12.2
+    - url: https://example.com/product/ABC124
+      text: Buy it now
       class: is-primary
-      icon: fa-shield-alt
+      icon: fa-shopping-cart
 ---
 
 This is the content about the product.
