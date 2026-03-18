@@ -4,7 +4,7 @@ height: is-medium
 items:
   - title: crDroid+ v12.2 | Android 16
     subtitle: Released on October 23, 2025.
-    image: devices/CrDroid_logo.svg
+    image: /devices/CrDroid_logo.svg
     description: >
       Enjoy the latest features and improvements with crDroid+ v12.2.
     call_to_action_name: Download crDroid+ v12.2
