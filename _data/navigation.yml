@@ -6,7 +6,9 @@
       link: /devices/spesn/
     - name: Samsung Galaxy Note 10.1 2014 Edition (n1awifi)
       link: /devices/n1awifi/
-
+    - name: Credits
+      link: /devices/credits/
+      
 - name: Downloads
   dropdown: 
     - name: Android Live Recovery USB software
@@ -23,5 +25,10 @@
   dropdown: 
     - name: Vendor Restrictions
       link: /research/vendor-restrictions/
+    - name: Device Unlock
+      link: /research/device-unlock
+    - name: Bootloader Lockdown
+      link: /research/bootloader-lockdown
+            
       
       
