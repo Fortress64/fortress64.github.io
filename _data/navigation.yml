@@ -18,3 +18,10 @@
       link: /manuals/rom-installation/
     - name: EDL recovery - debricking
       link: /manuals/edl-recovery/
+
+- name: Research
+  dropdown: 
+    - name: Vendor Restrictions
+      link: /research/vendor-restrictions/
+      
+      
