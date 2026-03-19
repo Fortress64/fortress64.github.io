@@ -16,9 +16,9 @@
 
 - name: Manuals
   dropdown: 
-    - name: Xiaomi ROM installation
+    - name: Xiaomi installation
       link: /manuals/xiaomi-installation/
-    - name: Samsung ROM installation
+    - name: Samsung installation
       link: /manuals/samsung-installation/
     - name: Device Unlock
       link: /manual/device-unlock
