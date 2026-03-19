@@ -17,9 +17,9 @@
 - name: Manuals
   dropdown: 
     - name: Xiaomi ROM installation
-      link: /manuals/xiaomi-rom-installation/
+      link: /manuals/xiaomi-installation/
     - name: Samsung ROM installation
-      link: /manuals/samsung-rom-installation/
+      link: /manuals/samsung-installation/
     - name: Device Unlock
       link: /manual/device-unlock
     - name: EDL recovery - debricking
