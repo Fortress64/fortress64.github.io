@@ -18,6 +18,8 @@
   dropdown: 
     - name: ROM installation
       link: /manuals/rom-installation/
+    - name: Device Unlock
+      link: /manual/device-unlock
     - name: EDL recovery - debricking
       link: /manuals/edl-recovery/
 
@@ -25,10 +27,9 @@
   dropdown: 
     - name: Vendor Restrictions
       link: /research/vendor-restrictions/
-    - name: Device Unlock
-      link: /research/device-unlock
     - name: Bootloader Lockdown
       link: /research/bootloader-lockdown
+
             
       
       
