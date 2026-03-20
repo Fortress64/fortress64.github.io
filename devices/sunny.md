@@ -4,218 +4,157 @@ subtitle: Latest software releases for the Xiaomi Redmi Note 10 (sunny/mojito)
 hero_height: is-fullwidth
 callouts: sunny
 ---
+# Custom ROM Releases — Xiaomi Redmi Note 10 (Sunny / Mojito)
 
-# Software ROM Releases for the Xiaomi Redmi Note 10 (Sunny/Mojito)
+This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 (codenames: `sunny` / `mojito`). All releases are compatible with Magisk and the following custom recoveries: TWRP, PBRP, and OrangeFox.
 
-Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All releases listed here are compatible with Magisk, TWRP, PBRP, and OrangeFox recovery (not preloaded yet).
+> **Disclaimer:** Flashing a custom ROM carries inherent risks, including data loss, boot loops, or a bricked device. Follow all instructions carefully. By proceeding, you accept full responsibility for any issues that arise from the flashing process.
 
-**Disclaimer**: Please follow these instructions carefully before seeking support. Flashing a custom ROM can lead to data loss, boot loops, or bricked devices if not done properly. By proceeding, you acknowledge that any issues arising from improper flashing are your responsibility.
-
----
-
-## 1. 📱 ROM Releases
-
-### 1.1 🌟 Key Features of CrDroid+ v11.6 | Android 15 | [XDA Thread](https://xdaforums.com/t/crdroid-v11-6-rom-unofficial-android-15-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-01-juli-2025.4717327/)
-
-- 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
-- ✅ **MicroG Verified Google Device:** This device has successfully passed Google Play Services' SafetyNet attestation, guaranteeing compatibility and security for a smooth user experience.
-- ⚙️ **Custom Patchsets:** Benefit from tailored security and privacy patchsets designed to enhance both performance and user protection.
-- 📝 **Edit Configuration:** Users can easily modify the **Fortress64/fortress64-apk.config.txt** file to customize the default user and system apps. This configuration file can be reused with every fresh installation, providing a personalized setup.
-
-## 📦 Included Removable Apps
-
-- 🔒 **AFWall:** Advanced firewall for enhanced security.
-- 🛑 **AdAway:** Powerful ad-blocker.
-- 📲 **Aurora Store:** An alternative to the Google Play Store that allows you to download apps anonymously.
-- 💾 **Neo Backup:** Open-source tool to backup your apps and data.
-- 🗝️ **KeePassDX:** A password manager for securely storing and managing your passwords.
-- 🌍 **Ironfox:** Privacy-focused web browser.
-- 📡 **MicroG:** Free and open-source implementation of Google Play Services.
-- 🗺️ **Organic Maps:** Offline map application that respects your privacy.
-- 🛡️ **WireGuard:** Cutting-edge VPN solution for a fast and secure internet connection.
-- 📩 **Signal:** Encrypted messaging app.
-- 📁 **Fossify File Manager:** Modern file manager prioritizing user privacy and customization.
-- 🔐 **DroidFS:** User-friendly file system management tool for encrypting files for secure cloud storage.
-- 🖥️ **Termux:** Terminal emulator and Linux environment for Android.
-- 📬 **Thunderbird:** Free and open-source email client with robust features.
-- 🔓 **Magisk:** Tool for rooting Android devices and managing root permissions.
+![Device Specifications](/img/xiaomi/specs-sunny.webp)
 
 ---
 
-![Screenshots](screenshots/Screenshots-crDroid.png)
+## Table of Contents
+
+1. [ROM Releases](#1-rom-releases)
+   - [CrDroid+ v12.2 — Android 16](#11-crdroid-v122--android-16)
+   - [LineageOS+ v23.0 — Android 16](#12-lineageos-v230--android-16)
+   - [e/OS e-2.8-u — Android 14 *(Discontinued)*](#13-eos-e-28-u--android-14--discontinued)
+   - [LMODroid 6.0 — Android 14 *(Discontinued)*](#14-lmodroid-60--android-14--discontinued)
+2. [Recovery Options](#2-recovery-options)
 
 ---
 
-### 1.2 🌟 Key Features of LineageOS+ v22.2 | Android 15 | [XDA Thread](https://xdaforums.com/t/lineageos-v22-2-rom-unofficial-android-15-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-01-juli-2025.4717332/)
+## 1. ROM Releases
 
-- 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
-- ✅ **MicroG Verified Google Device:** This device has mostly passed the SafetyNet attestation from Google Play Services, ensuring compatibility and security for a seamless user experience.
-- ⚙️ **Custom Patchsets:** Benefit from tailored security and privacy patchsets designed to enhance both performance and user protection.
-- 📝 **Edit Configuration:** Users can easily modify the **Fortress64/fortress64-apk.config.txt** file to customize the default user and system apps. This configuration file can be reused with every fresh installation, providing a personalized setup.
+### 1.1 CrDroid+ v12.2 — Android 16
 
-## 📦 Included Removable Apps
+![CrDroid Logo](/img/OS/CrDroid_logo.svg)
 
-- 🔒 **AFWall:** Advanced firewall for enhanced security.
-- 🛑 **AdAway:** Powerful ad-blocker.
-- 📲 **Aurora Store:** An alternative to the Google Play Store that allows you to download apps anonymously.
-- 💾 **Neo Backup:** Open-source tool to backup your apps and data.
-- 🗝️ **KeePassDX:** A password manager for securely storing and managing your passwords.
-- 🌍 **Ironfox:** Privacy-focused web browser.
-- 📡 **MicroG:** Free and open-source implementation of Google Play Services.
-- 🗺️ **Organic Maps:** Offline map application that respects your privacy.
-- 🛡️ **WireGuard:** Cutting-edge VPN solution for a fast and secure internet connection.
-- 📩 **Signal:** Encrypted messaging app.
-- 📁 **Fossify File Manager:** Modern file manager prioritizing user privacy and customization.
-- 🔐 **DroidFS:** User-friendly file system management tool for encrypting files for secure cloud storage.
-- 🖥️ **Termux:** Terminal emulator and Linux environment for Android.
-- 📬 **Thunderbird:** Free and open-source email client with robust features.
-- 🔓 **Magisk:** Tool for rooting Android devices and managing root permissions.
+[View XDA Thread](https://xdaforums.com/t/crdroid-v12-2-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764091/)
 
----
+#### Key Features
 
-![Screenshots](/screenshots/Screenshots-LineageOS.png)
+- **OTA Updates:** Seamless over-the-air updates are delivered directly from our own secure servers, keeping the device current without manual intervention.
+- **MicroG Verified Device:** This build has successfully passed Google Play Services' SafetyNet attestation via MicroG, ensuring broad app compatibility and a stable security baseline.
+- **Custom Patchsets:** Tailored security and privacy patches are applied on top of the base ROM to improve both performance and user protection.
+- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to define which user and system apps are installed by default. This configuration file persists across fresh installations, enabling a reproducible and personalized setup.
 
----
+#### Included Removable Apps
 
-### 1.3.🌟 Key Features of e/OS e-2.8-u | Android 14 | [XDA Thread](https://xdaforums.com/t/discontinued-e-os-e-2-8-u-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717275/) | **DEVELOPMENT DISCONTINUED**
+| App | Description |
+|---|---|
+| AdAway | System-level ad blocker using hosts file modification |
+| AFWall+ | Host-based firewall with fine-grained per-app network control |
+| Aurora Store | Anonymous Google Play client; no Google account required |
+| DroidFS | Encrypted virtual filesystem for secure local and cloud file storage |
+| F-Droid Basic | Minimal F-Droid client for installing open-source Android apps |
+| Fossify File Manager | Lightweight file manager with no analytics or cloud dependencies |
+| Ironfox | Privacy-hardened web browser |
+| InviZible Pro | Combined Tor, DNSCrypt, and I2P client for network privacy |
+| KeePassDX | Offline password manager with encrypted local storage |
+| Magisk | Root management framework with systemless modification support |
+| MicroG | Open-source reimplementation of Google Play Services |
+| Neo Backup | Open-source app and data backup utility |
+| Organic Maps | Offline maps application built on OpenStreetMap data |
+| Signal | End-to-end encrypted messaging and voice calls |
+| Survival Manual | Offline survival guide based on the U.S. Army Field Manual 21-76 |
+| Termux | Terminal emulator providing a full Linux userland environment on Android |
+| Thunderbird | Full-featured open-source email client |
+| WireGuard | Modern, high-performance VPN using the WireGuard protocol |
 
-   - 🔧 OTA Updates: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
-
-📦 Included Apps (All Removable)​
-
-   - 🔑 **Magisk** - Root management tool
-   - 🛍️ **Aurora Store** - Privacy-respecting app store
-   - 🔒 **AFWall** - Advanced firewall for enhanced security
-   - 🚫 **AdAway** - Powerful ad-blocker
-   - 🌐 **Iceraven** - Privacy-focused web browser
-   - 🗝️ **KeePassDX** - Secure password manager
-   - 💬 **Signal** - Encrypted messaging app
-   - 📧 **Thunderbird** - Feature-rich email client
+![CrDroid Screenshots](/img/xiaomi/Screenshot-Xiaomi-crDroid.webp)
 
 ---
 
-![Screenshots](screenshots/Screenshots-e_OS.png)
+### 1.2 LineageOS+ v23.0 — Android 16
+
+![LineageOS Logo](/img/OS/LineageOS_Wordmark.svg)
+
+[View XDA Thread](https://xdaforums.com/t/lineageos-v23-0-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764092/)
+
+#### Key Features
+
+- **OTA Updates:** Over-the-air updates are delivered from our own secure servers.
+- **MicroG Verified Device:** This build has largely passed SafetyNet attestation via MicroG, providing good app compatibility with standard security guarantees.
+- **Custom Patchsets:** Tailored security and privacy patches are applied on top of the base ROM.
+- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to control which apps are present after installation. The file can be reused across reinstalls for a consistent setup.
+
+#### Included Removable Apps
+
+Identical to the CrDroid+ app bundle. Refer to the [table above](#included-removable-apps) for descriptions.
+
+![LineageOS Screenshots](/img/xiaomi/Screenshot-Xiaomi-LineageOS.webp)
 
 ---
 
-### 1.4.🌟 Key Features of LMODroid 6.0 | Android 14 | [XDA Thread](https://xdaforums.com/t/discontinued-lmodroid-v6-0-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717140/) | **DEVELOPMENT DISCONTINUED**
+### 1.3 e/OS e-2.8-u — Android 14 — **DISCONTINUED**
 
-   - 🔧 OTA Updates: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
+[View XDA Thread](https://xdaforums.com/t/discontinued-e-os-e-2-8-u-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717275/)
 
-📦 Included Apps (All Removable)​
+> Development on this ROM has been discontinued. No further updates will be released.
 
-   - 🔑 **Magisk** - Root management tool
-   - 🛍️ **Aurora Store** - Privacy-respecting app store
-   - 🔒 **AFWall** - Advanced firewall for enhanced security
-   - 🚫 **AdAway** - Powerful ad-blocker
-   - 🌐 **Iceraven** - Privacy-focused web browser
-   - 🗝️ **KeePassDX** - Secure password manager
-   - 💬 **Signal** - Encrypted messaging app
-   - 📧 **Thunderbird** - Feature-rich email client
+#### Key Features
 
----
+- **OTA Updates:** Updates were delivered over-the-air from our own secure servers.
 
-![Screenshots](screenshots/Screenshots-LMODroid.png)
+#### Included Removable Apps
 
----
+| App | Description |
+|---|---|
+| Magisk | Root management framework |
+| Aurora Store | Anonymous Google Play client |
+| AFWall | Host-based firewall |
+| AdAway | System-level ad blocker |
+| Iceraven | Privacy-focused web browser (Firefox fork) |
+| KeePassDX | Offline password manager |
+| Signal | End-to-end encrypted messaging |
+| Thunderbird | Open-source email client |
 
-## 2. 🔧 Recovery Options [XDA Thread](https://xdaforums.com/t/multiple-custom-recoveries-unofficial-xiaomi-redmi-note-10-sunny-mojito-twrp-orangefox-pbrp-02-juli-2025.4721961/)
-
----
-
-   - **TWRP 3.7.1 (Team Win Recovery Project)**
-   - 🖥️ Bootable Image
-   - 📦 Installable ZIP
-     ![Screenshots](screenshots/TWRP-Screenshots.jpg)
+![e/OS Screenshots](/img/xiaomi/Screenshot-Xiaomi-e_OS.webp)
 
 ---
 
-   - **OrangeFox 11.3 (Orange Fox Recovery Project)**
-   - 🖥️ Bootable Image
-   - 📦 Installable ZIP
-     
-     ![Screenshots](screenshots/OrangeFox-Screenshots.jpg)
+### 1.4 LMODroid 6.0 — Android 14 — **DISCONTINUED**
+
+[View XDA Thread](https://xdaforums.com/t/discontinued-lmodroid-v6-0-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717140/)
+
+> Development on this ROM has been discontinued. No further updates will be released.
+
+#### Key Features
+
+- **OTA Updates:** Updates were delivered over-the-air from our own secure servers.
+
+#### Included Removable Apps
+
+Identical to e/OS. Refer to the [table above](#included-removable-apps-2) for descriptions.
+
+![LMODroid Screenshots](/img/xiaomi/Screenshot-Xiaomi-LMODroid.webp)
 
 ---
 
-   - **PBRP 4.0 (Pitch Black Recovery Project)**
-   - 🖥️ Bootable Image
-   - 📦 Installable ZIP
-     
-     ![Screenshots](screenshots/PitchBlack-Screenshots.jpg)
+## 2. Recovery Options
 
----
+[View XDA Thread](https://xdaforums.com/t/multiple-custom-recoveries-unofficial-xiaomi-redmi-note-10-sunny-mojito-twrp-orangefox-pbrp-10-juli-2025.4721961/)
 
-## 3. 🚀 First-Time Flashing Instructions for Xiaomi Redmi Note 10 (Sunny/Mojito)
+All three recoveries are available in two formats: a bootable `.img` file and an installable `.zip` for flashing from within recovery. Each release bundles Magisk v30.1. Recoveries can be booted directly via Fastboot without being permanently flashed to the device.
 
-**⚠ Disclaimer:** Flashing a custom ROM carries risks, including data loss, boot loops, or bricked devices. Follow these instructions carefully. By proceeding, you acknowledge that any issues arising from improper flashing are your responsibility.
+**Magisk installation:** OrangeFox includes full built-in Magisk manager support. For TWRP and PBRP, navigate to `/Magisk/Magisk.zip` within the recovery interface and flash the zip directly.
 
----
+### TWRP 3.7.1 (Team Win Recovery Project)
 
-## 📌 Preparation Steps
+A well-established recovery with broad device support, a touch-based interface, and support for ADB sideloading, full backups (NANDroid), and file system operations.
 
-### 1. Backup Your Data
-Before proceeding, create a complete backup of your device. Flashing for the first time will erase all data and restore factory defaults.
+![TWRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-TWRP.webp)
 
-### 2. Download and Flash Stock Firmware
-- Download the latest firmware ([V14.0.9.0.SKGMIXM](https://mifirm.net/download/12791)).
-- Extract the downloaded firmware package.
+### OrangeFox 12.1 (OrangeFox Recovery Project)
 
-### 3. Enter Fastboot Mode
-1. Power off your device.
-2. Hold **Volume Down + Power** simultaneously to enter Fastboot mode.
+A feature-rich recovery built on TWRP, with a polished Material Design interface and fully integrated Magisk manager support for streamlined root installation.
 
-### 4. Connect and Flash Stock Firmware
-1. Connect your device to a PC via USB-C.
-2. Open a terminal or command prompt.
-3. Navigate to the extracted firmware folder and run:
-   - **Windows:** `flash_all.bat`
-   - **Linux/macOS:** `flash_all.sh`
+![OrangeFox Screenshots](/img/xiaomi/Screenshot-Xiaomi-OrangeFox.webp)
 
-### 5. Verify and Boot
-- Ensure the flashing process completes with a "Success" message.
-- If it fails, repeat Step 4 or force reboot by holding the Power button.
-- Wait for the **MIUI** setup screen to appear after a successful flash.
-- **Complete the MIUI setup** until the home screen is fully loaded, thereby finishing the MIUI post-installation process.
+### PBRP 4.0 (Pitch Black Recovery Project)
 
----
+A dark-themed recovery with a clean UI, support for ADB sideloading, and integrated tools for partition management and backups.
 
-## 🔧 Flashing a custom ROM for the first time
-
-### 6. Flash Custom ROM
-1. Download your desired ROM, its 'boot.img' and 'vendor_boot.img' files
-2. Re-enter Fastboot mode (see Step 3).
-3. Open a terminal or command prompt.
-4. Flash the recovery image using:
-   - `fastboot flash boot boot.img`
-   - `fastboot flash vendor_boot vendor_boot.img`
-   - `fastboot reboot recovery`
-5. In recovery mode:
-   - Navigate using **Volume buttons** and confirm with the **Power** button.
-   - Select **Apply Update > Apply from ADB**.
-6. Flash the ROM:
-   - `adb sideload your_rom.zip`
-7. Once flashing is complete, restart recovery when prompted.
-
-### 7. Factory Reset, Boot and Updating ROM
-1. **Perform a factory reset in the custom recovery:**
-   - Navigate to **Factory Reset** and confirm the action twice.
-2. **Reboot your device** to load the new ROM.
-3. **Flashing or updating a ROM** can now be done using the Updater app, or by rebooting the device into recovery mode and flashing a new ZIP image.
-
----
-
-## 🔓 Optional: Root Access & Custom Recovery
-
-### 8. Install Magisk (Root) and/or Custom Recovery
-1. Download **Magisk** from [GitHub](https://github.com/topjohnwu/Magisk) and/or the **TWRP (Team Win Recovery Project)**, **PBRP (Pitch Black Recovery Project)**, or  **OrangeFox Recovery** custom recovery from [this location](https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest).
-2. **Disable your screen lock or set it to "swipe."** Otherwise, the custom recovery may be unable to decrypt your data partition.
-3. Boot into recovery mode and install the custom recovery first (if required):
-   - `adb sideload your_custom_recovery.zip`
-4. Flash Magisk:
-   - `adb sideload Magisk-version.apk`
-   -  In TWRP and PBRP recovery, navigate to the /Magisk/Magisk.zip file and proceed to flash the zip. Additionally, OrangeFox features the latest Magisk support integrated directly into its user interface.
-5. Reboot and complete Magisk setup in the app.
-
----
-
+![PBRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-PitchBlack.webp)
