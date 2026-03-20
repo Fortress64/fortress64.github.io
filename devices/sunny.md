@@ -6,11 +6,11 @@ callouts: sunny
 ---
 # Custom ROM Releases — Xiaomi Redmi Note 10 (Sunny / Mojito)
 
+![Device Specifications](/img/xiaomi/Specs-Sunny.webp)
+
 This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 (codenames: `sunny` / `mojito`). All releases are compatible with Magisk and the following custom recoveries: TWRP, PBRP, and OrangeFox.
 
 > **Disclaimer:** Flashing a custom ROM carries inherent risks, including data loss, boot loops, or a bricked device. Follow all instructions carefully. By proceeding, you accept full responsibility for any issues that arise from the flashing process.
-
-![Device Specifications](/img/xiaomi/Specs-Sunny.webp)
 
 ---
 
