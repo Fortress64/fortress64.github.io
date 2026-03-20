@@ -10,7 +10,7 @@ This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 
 
 > **Disclaimer:** Flashing a custom ROM carries inherent risks, including data loss, boot loops, or a bricked device. Follow all instructions carefully. By proceeding, you accept full responsibility for any issues that arise from the flashing process.
 
-![Device Specifications](/img/xiaomi/specs-sunny.webp)
+![Device Specifications](/img/xiaomi/Specs-Sunny.webp)
 
 ---
 
