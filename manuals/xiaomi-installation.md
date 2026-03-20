@@ -17,6 +17,8 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 <details>
 <summary><strong>Redmi 10 series</strong></summary>
 
+<br>
+
 - **Redmi 10 / 10 Prime (Selene):** [mifirm.net](https://mifirm.net/model/selene.ttt#global)
 - **Redmi 10A (Dandelion_c3l2):** [mifirm.net](https://mifirm.net/model/dandelion_c3l2.ttt#global)
 - **Redmi 10C (Fog):** [mifirm.net](https://mifirm.net/model/fog.ttt#global)
@@ -25,8 +27,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 10 series</strong></summary>
+
+<br>
 
 - **Redmi Note 10 (Mojito/Sunny):** [mifirm.net](https://mifirm.net/model/mojito.ttt#global)
 - **Redmi Note 10S (Rosemary):** [mifirm.net](https://mifirm.net/model/rosemary.ttt#global)
@@ -38,8 +44,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 11 series</strong></summary>
+
+<br>
 
 - **Redmi Note 11 Global (Spes):** [mifirm.net](https://mifirm.net/model/spes.ttt#global)
 - **Redmi Note 11 NFC (Spesn):** [mifirm.net](https://mifirm.net/model/spesn.ttt#global)
@@ -57,16 +67,24 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi 12 series</strong></summary>
+
+<br>
 
 - **Redmi 12 (Fire):** [mifirm.net](https://mifirm.net/model/fire.ttt#global)
 - **Redmi 12C / POCO C55 (Earth):** [mifirm.net](https://mifirm.net/model/earth.ttt#global)
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 12 series</strong></summary>
+
+<br>
 
 - **Redmi Note 12 4G (Tapas):** [mifirm.net](https://mifirm.net/model/tapas.ttt#global)
 - **Redmi Note 12 4G NFC (Topaz):** [mifirm.net](https://mifirm.net/model/topaz.ttt#global)
@@ -81,8 +99,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi 13 series</strong></summary>
+
+<br>
 
 - **Redmi 13 (Moon):** [mifirm.net](https://mifirm.net/model/moon.ttt#global)
 - **Redmi 13C / POCO C65 (Gale):** [mifirm.net](https://mifirm.net/model/gale.ttt#global)
@@ -90,8 +112,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 13 series</strong></summary>
+
+<br>
 
 - **Redmi Note 13 4G (Sapphire):** [mifirm.net](https://mifirm.net/model/sapphire.ttt#global)
 - **Redmi Note 13 NFC (Sapphiren):** [mifirm.net](https://mifirm.net/model/sapphiren.ttt#global)
@@ -103,16 +129,24 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi 14 series</strong></summary>
+
+<br>
 
 - **Redmi 14C / POCO C75 / A3 Pro (Lake):** [mifirm.net](https://mifirm.net/model/lake.ttt#global)
 - **Redmi 14R 5G / POCO M7 5G / 14C 5G (Flame):** [mifirm.net](https://mifirm.net/model/flame.ttt) *(China & India only)*
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 14 series</strong></summary>
+
+<br>
 
 - **Redmi Note 14 4G (Tanzanite):** [mifirm.net](https://mifirm.net/model/tanzanite.ttt#global)
 - **Redmi Note 14 (Beryl):** [mifirm.net](https://mifirm.net/model/beryl.ttt#global)
@@ -122,8 +156,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi 15 series</strong></summary>
+
+<br>
 
 - **Redmi 15 / POCO M7 (Creek):** [mifirm.net](https://mifirm.net/model/creek.ttt#global)
 - **Redmi 15R 5G / 15 5G / POCO M7 Plus 5G (Spring):** [mifirm.net](https://mifirm.net/model/spring.ttt#global)
@@ -132,8 +170,12 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 
 </details>
 
+---
+
 <details>
 <summary><strong>Redmi Note 15 series</strong></summary>
+
+<br>
 
 - **Redmi Note 15 4G (Spinel):** [mifirm.net](https://mifirm.net/model/spinel.ttt#global)
 - **Redmi Note 15 5G (Kunzite):** [mifirm.net](https://mifirm.net/model/kunzite.ttt#global)
@@ -142,6 +184,8 @@ Download the latest **and** last updated stock firmware for your device. Prefer 
 - **Redmi Note 15 Pro+ 5G (Flourite):** [mifirm.net](https://mifirm.net/model/flourite.ttt#global)
 
 </details>
+
+---
 
 Extract the downloaded archive.
 
@@ -187,16 +231,19 @@ ADB and Fastboot are required to flash and communicate with your device from a P
 3. Open a terminal and run the following commands in sequence:
 
 > Flash `boot.img` if it is present for your device. Confirm that the output ends with a `SUCCESS` message, and that it does not contain `FAILED`.
+
 ```bash
 fastboot flash boot boot.img
 ```
 
 > Flash `vendor_boot.img` if it is present for your device. Confirm that the output ends with a `SUCCESS` message, and that it does not contain `FAILED`.
+
 ```bash
 fastboot flash vendor_boot vendor_boot.img
 ```
 
 > Flash `init_boot.img` if it is present for your device. Confirm that the output ends with a `SUCCESS` message, and that it does not contain `FAILED`.
+
 ```bash
 fastboot flash init_boot init_boot.img
 ```
@@ -208,9 +255,11 @@ fastboot reboot recovery
 4. Once in recovery mode, navigate using the **Volume** buttons and confirm with **Power**.
 5. Select **Apply Update > Apply from ADB**.
 6. Sideload the ROM:
+
 ```bash
 adb sideload your_rom.zip
 ```
+
 7. Once the installation exits with no errors, restart recovery when prompted.
 
 ---
@@ -232,9 +281,11 @@ adb sideload your_rom.zip
 1. Download TWRP, OrangeFox, or PitchBlack Recovery from your device's page.
 2. Boot into recovery mode.
 3. To install a custom recovery, enable sideload and sideload it:
+
 ```bash
 adb sideload your_custom_recovery.zip
 ```
+
 4. Restart the device back into recovery mode to load the custom recovery.
 5. In TWRP or PBRP, navigate to `/Magisk/Magisk.zip` and flash it directly. OrangeFox includes integrated Magisk support in its UI.
 6. Reboot to the system and complete the Magisk setup in the app after checking it is up to date after configuring your internet connection.
@@ -248,6 +299,7 @@ adb sideload your_custom_recovery.zip
 > **🗂 Temp — move to separate pages**
 >
 > ### Play Store & Alternative App Stores
+>
 > The crDroid and LineageOS ROMs provide a customizable Android experience with MicroG, a free alternative to Google Play Services, allowing users to access essential functionalities without proprietary software. They also include Aurora Store, which lets users download apps from the Google Play Store without a Google account, and F-Droid, a repository of free and open-source applications. Together, these tools offer a complete and privacy-focused alternative to GApps.
 >
 > ### Common Issues & Fixes
