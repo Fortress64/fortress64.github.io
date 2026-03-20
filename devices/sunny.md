@@ -4,13 +4,14 @@ subtitle: Latest software releases for the Xiaomi Redmi Note 10 (sunny/mojito)
 hero_height: is-fullwidth
 callouts: sunny
 ---
-# Custom ROM Releases — Xiaomi Redmi Note 10 (Sunny / Mojito)
 
-![Device Specifications](/img/xiaomi/Specs-Sunny.webp)
+# Custom ROM Releases — Xiaomi Redmi Note 10 (Sunny / Mojito)
 
 This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 (codenames: `sunny` / `mojito`). All releases are compatible with Magisk and the following custom recoveries: TWRP, PBRP, and OrangeFox.
 
 > **Disclaimer:** Flashing a custom ROM carries inherent risks, including data loss, boot loops, or a bricked device. Follow all instructions carefully. By proceeding, you accept full responsibility for any issues that arise from the flashing process.
+
+![Device Specifications](/img/xiaomi/Specs-Sunny.webp)
 
 ---
 
@@ -29,7 +30,7 @@ This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 
 
 ### 1.1 CrDroid+ v12.2 — Android 16
 
-![CrDroid Logo](/img/OS/CrDroid_logo.svg)
+![CrDroid Logo](/img/OS/Logo_CrDroid.webp)
 
 [View XDA Thread](https://xdaforums.com/t/crdroid-v12-2-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764091/)
 
@@ -69,7 +70,7 @@ This repository provides custom Android ROM builds for the Xiaomi Redmi Note 10 
 
 ### 1.2 LineageOS+ v23.0 — Android 16
 
-![LineageOS Logo](/img/OS/LineageOS_Wordmark.svg)
+![LineageOS Logo](/img/OS/Logo_LineageOS.webp)
 
 [View XDA Thread](https://xdaforums.com/t/lineageos-v23-0-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764092/)
 
@@ -89,6 +90,8 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 ---
 
 ### 1.3 e/OS e-2.8-u — Android 14 — **DISCONTINUED**
+
+![e/OS Logo](/img/OS/Logo_eOS.webp)
 
 [View XDA Thread](https://xdaforums.com/t/discontinued-e-os-e-2-8-u-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717275/)
 
@@ -116,6 +119,8 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 ---
 
 ### 1.4 LMODroid 6.0 — Android 14 — **DISCONTINUED**
+
+![LMODroid Logo](/img/OS/Logo_LMODroid.webp)
 
 [View XDA Thread](https://xdaforums.com/t/discontinued-lmodroid-v6-0-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717140/)
 
