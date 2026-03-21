@@ -3,12 +3,11 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 lang: en
 title: Fortress64
 description: Securing Your Digital Privacy.
-baseurl: "/"
 url: "https://fortress64.github.io/"
 permalink: pretty
 
 fixed_navbar: top
-theme_color: '#eeeeee'
+theme_color: '#dddddd'
 force_theme: light
 
 navbar_logo: /img/logos/Fortress64.webp
