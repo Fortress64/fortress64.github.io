@@ -1,5 +1,5 @@
 ---
-title: Xiaomi ROM Installation Guide
+title: Xiaomi Firmware, ROM and Recovery Installation Guide
 ---
 # First-Time Flashing Instructions
 
