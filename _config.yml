@@ -1,5 +1,4 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
-
 lang: en
 title: Fortress64
 description: Securing Your Digital Privacy.
@@ -13,12 +12,12 @@ defaults:
     values:
       layout: page
       hero_height: is-fullwidth
-      
+
 navbar_logo: /img/logos/Fortress64.webp
 navbar_logo_alt: Fortress64
-
 fixed_navbar: top
 force_theme: light
+theme_color: '#1a1a1a'
 
 social:
   threads: https://www.threads.net/
@@ -29,7 +28,6 @@ footer_menu: footer_menu
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
