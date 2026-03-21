@@ -39,7 +39,7 @@ This repository provides custom Android ROM and Recovery builds for the Xiaomi R
 - **OTA Updates:** Seamless over-the-air updates are delivered directly from our own secure servers, keeping the device current without manual intervention.
 - **MicroG Verified Device:** This build has successfully passed Google Play Services' SafetyNet attestation via MicroG, ensuring broad app compatibility and a stable security baseline.
 - **Custom Patchsets:** Tailored security and privacy patches are applied on top of the base ROM to improve both performance and user protection.
-- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to define which user and system apps are installed by default. This configuration file persists across fresh installations, enabling a reproducible and personalized setup.
+- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to control which apps are present after installation. The file can be reused across reinstalls for a consistent setup. More explaination can be found in the file above.
 
 #### Included Removable Apps
 
@@ -64,6 +64,8 @@ This repository provides custom Android ROM and Recovery builds for the Xiaomi R
 | Thunderbird | Full-featured open-source email client |
 | WireGuard | Modern, high-performance VPN using the WireGuard protocol |
 
+#### Screenshots
+
 ![CrDroid Screenshots](/img/xiaomi/Screenshot-Xiaomi-crDroid.webp)
 
 ---
@@ -79,11 +81,13 @@ This repository provides custom Android ROM and Recovery builds for the Xiaomi R
 - **OTA Updates:** Over-the-air updates are delivered from our own secure servers.
 - **MicroG Verified Device:** This build has largely passed SafetyNet attestation via MicroG, providing good app compatibility with standard security guarantees.
 - **Custom Patchsets:** Tailored security and privacy patches are applied on top of the base ROM.
-- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to control which apps are present after installation. The file can be reused across reinstalls for a consistent setup.
+- **Configurable App Selection:** Users can modify `Fortress64/fortress64-apk.config.txt` to control which apps are present after installation. The file can be reused across reinstalls for a consistent setup. More explaination can be found in the file above.
 
 #### Included Removable Apps
 
 Identical to the CrDroid+ app bundle. Refer to the [table above](#included-removable-apps) for descriptions.
+
+#### Screenshots
 
 ![LineageOS Screenshots](/img/xiaomi/Screenshot-Xiaomi-LineageOS.webp)
 
@@ -114,6 +118,8 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 | Signal | End-to-end encrypted messaging |
 | Thunderbird | Open-source email client |
 
+#### Screenshots
+
 ![e/OS Screenshots](/img/xiaomi/Screenshot-Xiaomi-e_OS.webp)
 
 ---
@@ -134,6 +140,8 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 Identical to e/OS. Refer to the [table above](#included-removable-apps-2) for descriptions.
 
+#### Screenshots
+
 ![LMODroid Screenshots](/img/xiaomi/Screenshot-Xiaomi-LMODroid.webp)
 
 ---
@@ -150,16 +158,22 @@ All three recoveries are available in two formats: a bootable `.img` file and an
 
 A well-established recovery with broad device support, a touch-based interface, and support for ADB sideloading, full backups (NANDroid), and file system operations.
 
+#### Screenshots
+
 ![TWRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-TWRP.webp)
 
 ### OrangeFox 12.1 (OrangeFox Recovery Project)
 
 A feature-rich recovery built on TWRP, with a polished Material Design interface and fully integrated Magisk manager support for streamlined root installation.
 
+#### Screenshots
+
 ![OrangeFox Screenshots](/img/xiaomi/Screenshot-Xiaomi-OrangeFox.webp)
 
 ### PBRP 4.0 (Pitch Black Recovery Project)
 
 A dark-themed recovery with a clean UI, support for ADB sideloading, and integrated tools for partition management and backups.
+
+#### Screenshots
 
 ![PBRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-PitchBlack.webp)
