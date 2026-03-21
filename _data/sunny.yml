@@ -1,44 +1,70 @@
-
 style: is-light
 height: is-medium
 items:
-  - title: crDroid+ v12.2 | Android 16
-    subtitle: Released on October 23, 2025.
+  - title: CrDroid+
+    subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
     description: >
-      Enjoy the latest features and improvements with crDroid+.
-    call_to_action_name: Download crDroid+
+      A feature-rich AOSP-based ROM focused on performance, customisation, and stability.
+      Includes privacy-focused app defaults, OTA updates, MicroG, and a configurable app
+      selection system. Fully passes SafetyNet attestation via MicroG.
+    call_to_action_name: Download CrDroid+
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
-    
-  - title: LineageOS+ 23.0 | Android 16
-    subtitle: Released on October 23, 2025.
+
+  - title: LineageOS+
+    subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
     description: >
-      Experience a clean and customizable Android experience with LineageOS+.
+      One of the most widely used custom Android distributions, known for its clean AOSP
+      base and long-term device support. Extended with privacy-focused app defaults, OTA
+      updates, MicroG, and a configurable app selection system.
     call_to_action_name: Download LineageOS+
     call_to_action_link: https://github.com/PTX64/releases_sunny_lineageos/releases/tag/latest
-    
-  - title: e/OS e-2.8-u | Android 14
-    subtitle: Released on February 5, 2025 (discontinued). 
+
+  - title: e/OS
+    subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
     description: >
-      A privacy-focused operating system for your device.
+      A privacy-focused Android distribution with built-in de-Googled services and a
+      clean user experience. Development has been discontinued; downloads remain available
+      for reference.
     call_to_action_name: Download e/OS
     call_to_action_link: https://github.com/PTX64/releases_sunny_eos/releases/tag/latest
 
-  - title: LMODroid 6.0 | Android 14
-    subtitle: Released on February 5, 2025 (discontinued).
+  - title: LMODroid
+    subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
     description: >
-      A lightweight and efficient Android experience.
+      A lightweight AOSP-based ROM with a focus on simplicity and efficiency. Development
+      has been discontinued; downloads remain available for reference.
     call_to_action_name: Download LMODroid
     call_to_action_link: https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest
 
-  - title: TWRP 3.7.1 | OrangeFox 11.3 | PBRP 4.0
-    subtitle: Released on July 10, 2025.
+  - title: TWRP
+    subtitle: Released July 10, 2025
     icon: fa-tools
     description: >
-      Custom recoveries for advanced users looking to modify their devices.
-    call_to_action_name: Download Custom Recoveries
+      The most widely adopted custom recovery for Android. Provides a touch-based
+      interface with ADB sideloading, full NANDroid backups, file management, and
+      terminal access.
+    call_to_action_name: Download TWRP
     call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
-    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest1
+
+  - title: OrangeFox
+    subtitle: Released July 10, 2025
+    icon: fa-tools
+    description: >
+      Built on TWRP with a polished Material Design interface and fully integrated
+      Magisk manager support for streamlined root installation — no sideloading required.
+    call_to_action_name: Download OrangeFox
+    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+
+  - title: PBRP
+    subtitle: Released July 10, 2025
+    icon: fa-tools
+    description: >
+      A dark-themed recovery with a clean, minimal UI. Supports ADB sideloading and
+      includes integrated tools for partition management and backups.
+    call_to_action_name: Download PBRP
+    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+
