@@ -14,3 +14,11 @@ social:
   youtube: https://www.youtube.com/@Fortress64
 
 footer_menu: footer_menu
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
