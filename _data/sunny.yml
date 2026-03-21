@@ -4,6 +4,7 @@ items:
   - title: CrDroid+
     subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
+    image: /img/logos/CrDroid.webp
     description: >
       A feature-rich AOSP-based ROM focused on performance, customisation, and stability.
       Includes privacy-focused app defaults, OTA updates, MicroG, and a configurable app
@@ -15,6 +16,7 @@ items:
   - title: LineageOS+
     subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
+    image: /img/logos/LineageOS.webp
     description: >
       One of the most widely used custom Android distributions, known for its clean AOSP
       base and long-term device support. Extended with privacy-focused app defaults, OTA
@@ -26,6 +28,7 @@ items:
   - title: e/OS
     subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
+    image: /img/logos/eOS.webp
     description: >
       A privacy-focused Android distribution with built-in de-Googled services and a
       clean user experience. Development has been discontinued; downloads remain available
@@ -36,6 +39,7 @@ items:
   - title: LMODroid
     subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
+    image: /img/logos/LMODroid.webp
     description: >
       A lightweight AOSP-based ROM with a focus on simplicity and efficiency. Development
       has been discontinued; downloads remain available for reference.
