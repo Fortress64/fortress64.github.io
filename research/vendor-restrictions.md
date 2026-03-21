@@ -1,5 +1,5 @@
 ---
-title: Vendor Restrictions & Bootloader Research
+title: Bootloader Unlock Restrictions by Manufacturer
 ---
 
 This page documents bootloader unlock restrictions imposed by major Android manufacturers. Information is sourced from the community-maintained [bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) project and supplemented with independent community research.
