@@ -1,3 +1,7 @@
+---
+title: Bootloader & EDL Lockdown is Illegal.
+---
+
 # We Are Done Asking Permission to Use Our Own Devices
 ### A legal and technical case against bootloader locking — and a call to act
 
