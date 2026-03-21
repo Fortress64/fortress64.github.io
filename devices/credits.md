@@ -2,7 +2,6 @@
 layout: page
 subtitle: Credits
 hero_height: is-fullwidth
-callouts: sunny
 ---
 
 # Credits
