@@ -1,9 +1,8 @@
 ---
 layout: page
 subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
-hero_height: is-small
-hero_image: /img/logos/Logo_Fortress64.webp
-hero_image_style: "max-height: 80px; width: auto; margin: auto;"
+hero_image: /img/logos/Logo_Banner_Fortress64.webp
+hero_height: is-fullwidth
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
