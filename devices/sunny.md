@@ -1,12 +1,11 @@
 ---
 layout: page
 subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
-hero_height: is-fullwidth
+hero_height: is-small
+hero_image: /img/logos/Logo_Fortress64.webp
+hero_image_style: "max-height: 80px; width: auto; margin: auto;"
 callouts: sunny
 ---
-<div style="text-align: center; padding: 2rem 0;">
-  <img src="/img/logos/Logo_Fortress64.webp" alt="Fortress64" style="max-height: 120px; width: auto;">
-</div>
 # Custom ROM and Recovery Releases
 
 This page lists custom Android ROM and Recovery builds maintained for the Xiaomi Redmi Note 10 (codenames: `sunny` / `mojito`). All builds support Magisk for root management and are compatible with TWRP, OrangeFox, and PBRP recovery. Version numbers and download links are listed in the overview above.
