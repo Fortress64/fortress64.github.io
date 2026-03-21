@@ -1,6 +1,5 @@
 ---
-title: Fortress64 - Todo
-subtitle: Todo
+title: Todo
 ---
  
 > **🗂 Temp — move to separate pages**
