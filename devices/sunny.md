@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
-hero_image: /img/logos/Logo_Banner_Fortress64.webp
+hero_image: /img/logos/Banner_Fortress64.webp
 hero_height: is-fullwidth
 callouts: sunny
 ---
@@ -32,7 +32,7 @@ This page lists custom Android ROM and Recovery builds maintained for the Xiaomi
 
 ### 1.1 CrDroid+
 
-![CrDroid Logo](/img/logos/Logo_CrDroid.webp)
+![CrDroid Logo](/img/logos/CrDroid.webp)
 
 [View XDA Thread](https://xdaforums.com/t/crdroid-v12-2-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764091/)
 
@@ -78,7 +78,7 @@ All apps listed below are pre-installed but can be removed at any time.
 
 ### 1.2 LineageOS+
 
-![LineageOS Logo](/img/logos/Logo_LineageOS.webp)
+![LineageOS Logo](/img/logos/LineageOS.webp)
 
 [View XDA Thread](https://xdaforums.com/t/lineageos-v23-0-rom-unofficial-android-16-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-23-october-2025.4764092/)
 
@@ -103,7 +103,7 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 ### 1.3 e/OS — **DISCONTINUED**
 
-![e/OS Logo](/img/logos/Logo_eOS.webp)
+![e/OS Logo](/img/logos/eOS.webp)
 
 [View XDA Thread](https://xdaforums.com/t/discontinued-e-os-e-2-8-u-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717275/)
 
@@ -134,7 +134,7 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 ### 1.4 LMODroid — **DISCONTINUED**
 
-![LMODroid Logo](/img/logos/Logo_LMODroid.webp)
+![LMODroid Logo](/img/logos/LMODroid.webp)
 
 [View XDA Thread](https://xdaforums.com/t/discontinued-lmodroid-v6-0-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717140/)
 
