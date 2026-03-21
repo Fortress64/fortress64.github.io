@@ -6,16 +6,16 @@ items:
     subtitle: Released on October 23, 2025.
     icon: fa-shield-alt
     description: >
-      Enjoy the latest features and improvements with crDroid+ v12.2.
-    call_to_action_name: Download crDroid+ v12.2
+      Enjoy the latest features and improvements with crDroid+.
+    call_to_action_name: Download crDroid+
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
     
   - title: LineageOS+ 23.0 | Android 16
     subtitle: Released on October 23, 2025.
     icon: fa-shield-alt
     description: >
-      Experience a clean and customizable Android experience with LineageOS+ 23.0.
-    call_to_action_name: Download LineageOS+ 23.0
+      Experience a clean and customizable Android experience with LineageOS+.
+    call_to_action_name: Download LineageOS+
     call_to_action_link: https://github.com/PTX64/releases_sunny_lineageos/releases/tag/latest
     
   - title: e/OS e-2.8-u | Android 14
@@ -23,7 +23,7 @@ items:
     icon: fa-download
     description: >
       A privacy-focused operating system for your device.
-    call_to_action_name: Download e/OS e-2.8-u
+    call_to_action_name: Download e/OS
     call_to_action_link: https://github.com/PTX64/releases_sunny_eos/releases/tag/latest
 
   - title: LMODroid 6.0 | Android 14
@@ -31,7 +31,7 @@ items:
     icon: fa-download
     description: >
       A lightweight and efficient Android experience.
-    call_to_action_name: Download LMODroid 6.0
+    call_to_action_name: Download LMODroid
     call_to_action_link: https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest
 
   - title: TWRP 3.7.1 | OrangeFox 11.3 | PBRP 4.0
@@ -41,3 +41,4 @@ items:
       Custom recoveries for advanced users looking to modify their devices.
     call_to_action_name: Download Custom Recoveries
     call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest1
