@@ -7,11 +7,7 @@ url: "https://fortress64.github.io/"
 permalink: pretty
 
 fixed_navbar: top
-theme_color: '#dddddd'
 force_theme: light
-
-navbar_logo: /img/logos/Fortress64.webp
-navbar_logo_alt: Fortress64
 
 social:
   threads: https://www.threads.net/
