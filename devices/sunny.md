@@ -150,15 +150,16 @@ Identical to e/OS. Refer to the [table above](#included-removable-apps-2) for de
 
 [View XDA Thread](https://xdaforums.com/t/multiple-custom-recoveries-unofficial-xiaomi-redmi-note-10-sunny-mojito-twrp-orangefox-pbrp-10-juli-2025.4721961/)
 
-All three recoveries are available in two formats: a bootable `.img` file and an installable `.zip` for flashing from within recovery. Each release bundles Magisk v30.1. Recoveries can be booted directly via Fastboot without being permanently flashed to the device.
+All three recoveries are available in two formats: a bootable `.img` file and an installable `.zip` for flashing from within recovery. Each release bundles the latest Magisk at that buildtime.
+>Recoveries can be booted and used directly via Fastboot without being permanently flashed to the device.
 
-**Magisk installation:** OrangeFox includes full built-in Magisk manager support. For TWRP and PBRP, navigate to `/Magisk/Magisk.zip` within the recovery interface and flash the zip directly.
+**Magisk installation:** OrangeFox includes full built-in Magisk manager flashing support. For TWRP and PBRP, navigate to `/Magisk/Magisk.zip` within the recovery interface and flash the zip directly.
 
 ### TWRP 3.7.1 (Team Win Recovery Project)
 
 A well-established recovery with broad device support, a touch-based interface, and support for ADB sideloading, full backups (NANDroid), and file system operations.
 
-#### Screenshots
+#### Screenshot
 
 ![TWRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-TWRP.webp)
 
@@ -166,7 +167,7 @@ A well-established recovery with broad device support, a touch-based interface, 
 
 A feature-rich recovery built on TWRP, with a polished Material Design interface and fully integrated Magisk manager support for streamlined root installation.
 
-#### Screenshots
+#### Screenshot
 
 ![OrangeFox Screenshots](/img/xiaomi/Screenshot-Xiaomi-OrangeFox.webp)
 
@@ -174,6 +175,6 @@ A feature-rich recovery built on TWRP, with a polished Material Design interface
 
 A dark-themed recovery with a clean UI, support for ADB sideloading, and integrated tools for partition management and backups.
 
-#### Screenshots
+#### Screenshot
 
 ![PBRP Screenshots](/img/xiaomi/Screenshot-Xiaomi-PitchBlack.webp)
