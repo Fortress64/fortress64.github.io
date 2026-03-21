@@ -1,3 +1,6 @@
+---
+title: Xiaomi ROM Installation Guide
+---
 # First-Time Flashing Instructions
 
 ## Step 1 — Back Up Your Data
