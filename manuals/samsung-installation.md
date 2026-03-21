@@ -1,3 +1,3 @@
 ---
-title: Samsumg ROM and Recovery Installation Guide
+title: Samsung Firmware, ROM and Recovery Installation Guide
 ---
