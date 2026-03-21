@@ -1,10 +1,5 @@
 ---
-layout: page
 title: Fortress64
-subtitle: Securing Your Digital Privacy
-hero_image: /img/logos/Banner_Fortress64.webp
-hero_height: is-fullwidth
-hero_darken: true
 ---
 
 Fortress64 is a small team of Linux and GNU enthusiasts building privacy-respecting Android ROM and recovery releases for a select range of devices. Our builds are designed to reduce dependence on proprietary Google services while remaining practical for everyday use.
