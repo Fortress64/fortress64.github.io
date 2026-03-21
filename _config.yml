@@ -6,6 +6,9 @@ description: Securing Your Digital Privacy.
 url: "https://fortress64.github.io/"
 permalink: pretty
 
+navbar_logo: /img/logos/Fortress64.webp
+navbar_logo_alt: Fortress64
+
 fixed_navbar: top
 force_theme: light
 
