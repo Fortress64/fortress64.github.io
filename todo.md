@@ -1,5 +1,8 @@
 ---
-
+layout: page
+title: Fortress64 - Securing Your Digital Privacy
+---
+ 
 > **🗂 Temp — move to separate pages**
 >
 > ### Play Store & Alternative App Stores
