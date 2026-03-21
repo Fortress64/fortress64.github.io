@@ -1,3 +1,10 @@
+---
+layout: page
+subtitle: Credits
+hero_height: is-fullwidth
+callouts: sunny
+---
+
 # Credits
 
 A huge thanks to our dedicated team of seasoned Linux/GNU enthusiasts and others who made our device releases possible, but not limited to:
