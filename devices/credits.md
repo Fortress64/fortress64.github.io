@@ -1,4 +1,5 @@
 ---
+title: Fortress64 - Credits
 subtitle: Credits
 ---
 
