@@ -18,10 +18,10 @@ This repository provides custom Android ROM and Recovery builds for the Xiaomi R
 ## Table of Contents
 
 1. [ROM Releases](#1-rom-releases)
-   - [CrDroid+ v12.2 — Android 16](#11-crdroid-v122--android-16)
-   - [LineageOS+ v23.0 — Android 16](#12-lineageos-v230--android-16)
-   - [e/OS e-2.8-u — Android 14 *(Discontinued)*](#13-eos-e-28-u--android-14--discontinued)
-   - [LMODroid 6.0 — Android 14 *(Discontinued)*](#14-lmodroid-60--android-14--discontinued)
+   - [CrDroid+](#11-crdroid-v122--android-16)
+   - [LineageOS+](#12-lineageos-v230--android-16)
+   - [e/OS *(Discontinued)*](#13-eos-e-28-u--android-14--discontinued)
+   - [LMODroid *(Discontinued)*](#14-lmodroid-60--android-14--discontinued)
 2. [Recovery Options](#2-recovery-options)
 
 ---
