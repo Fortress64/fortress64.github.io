@@ -1,16 +1,16 @@
 ---
 ---
-$primary: #eeeeee;
+$primary: #2b2b2b;
 @use "main";
 
 .navbar + section.hero::before {
   content: "";
   display: block;
-  background-color: #2b2b2b;
+  background-color: #eeeeee;
   background-image: url('/img/logos/Fortress64-Logo-Transparent-Dark.webp');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 80%;
+  background-size: 60%;
   height: 150px;
   width: 100%;
 }
