@@ -22,7 +22,7 @@ title: TWRP — Download
 
 ## Changelog
 
-*Changelog will be added with the next release.*
+*Refer to the [GitHub release page](https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest) for the full changelog.*
 
 ---
 
@@ -39,12 +39,15 @@ Each recovery is available as a bootable image or an installable ZIP. The recove
 
 ## SHA256 Checksums
 
-```
-# Verify with: sha256sum -c checksums.sha256
-# Checksums available on the GitHub release page
-```
+Verify your download against the checksums listed on the GitHub release page.
 
-[View checksums on GitHub](https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest)
+```bash
+# Linux
+sha256sum filename
+
+# Windows (PowerShell)
+Get-FileHash filename -Algorithm SHA256
+```
 
 ---
 
@@ -61,6 +64,4 @@ Having boot issues after flashing? See the [Troubleshooting guide](/manuals/trou
 
 ---
 
-[← Back to device page](/devices/sunny/)---
-title: TWRP Downloads for Sunny
----
+[← Back to device page](/devices/sunny/)
