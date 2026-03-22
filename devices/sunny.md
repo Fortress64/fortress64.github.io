@@ -1,7 +1,5 @@
 ---
-layout: page
 subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
-hero_height: is-fullwidth
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
@@ -19,10 +17,10 @@ This page lists custom Android ROM and Recovery builds maintained for the Xiaomi
 ## Table of Contents
 
 1. [ROM Releases](#1-rom-releases)
-   - [CrDroid+](#11-crdroid)
-   - [LineageOS+](#12-lineageos)
-   - [e/OS *(Discontinued)*](#13-eos--discontinued)
-   - [LMODroid *(Discontinued)*](#14-lmodroid--discontinued)
+   - [CrDroid+](#crdroid)
+   - [LineageOS+](#lineageos)
+   - [e/OS *(Discontinued)*](#eos)
+   - [LMODroid *(Discontinued)*](#lmodroid)
 2. [Recovery Options](#2-recovery-options)
 
 ---
@@ -149,7 +147,7 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 #### Included Removable Apps
 
-Identical to the e/OS app bundle. See the [e/OS app table above](#13-eos--discontinued) for descriptions.
+Identical to the e/OS app bundle. See the [e/OS app table above](#eos) for descriptions.
 
 #### Screenshots
 
