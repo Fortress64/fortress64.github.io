@@ -1,5 +1,3 @@
-style: is-light
-height: is-medium
 items:
   - title: CrDroid+
     subtitle: Android 16 — Released October 23, 2025
@@ -9,7 +7,7 @@ items:
       A feature-rich AOSP-based ROM focused on performance, customisation, and stability.
       Includes privacy-focused app defaults, OTA updates, MicroG, and a configurable app
       selection system. Fully passes SafetyNet attestation via MicroG.
-      <a href="/devices/sunny/#crdroid">Full details</a>
+      <br><a href="/devices/sunny/#crdroid">Full details</a>
     call_to_action_name: Download CrDroid+
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
 
@@ -21,7 +19,7 @@ items:
       One of the most widely used custom Android distributions, known for its clean AOSP
       base and long-term device support. Extended with privacy-focused app defaults, OTA
       updates, MicroG, and a configurable app selection system.
-      <a href="/devices/sunny/#lineageos">Full details</a>
+      <br><a href="/devices/sunny/#lineageos">Full details</a>
     call_to_action_name: Download LineageOS+
     call_to_action_link: https://github.com/PTX64/releases_sunny_lineageos/releases/tag/latest
 
@@ -32,7 +30,7 @@ items:
     description: >
       A privacy-focused Android distribution with built-in de-Googled services and a
       clean user experience. Development has been discontinued; downloads remain available
-      for reference. <a href="/devices/sunny/#eos">Full details</a>
+      for reference. <br><a href="/devices/sunny/#eos">Full details</a>
     call_to_action_name: Download e/OS
     call_to_action_link: https://github.com/PTX64/releases_sunny_eos/releases/tag/latest
 
@@ -43,7 +41,7 @@ items:
     description: >
       A lightweight AOSP-based ROM with a focus on simplicity and efficiency. Development
       has been discontinued; downloads remain available for reference.
-      <a href="/devices/sunny/#lmodroid">Full details</a>
+      <br><a href="/devices/sunny/#lmodroid">Full details</a>
     call_to_action_name: Download LMODroid
     call_to_action_link: https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest
 
@@ -54,7 +52,7 @@ items:
     description: >
       The most widely adopted custom recovery for Android. Provides a touch-based
       interface with ADB sideloading, full NANDroid backups, file management, and
-      terminal access. <a href="/devices/sunny/#twrp">Full details</a>
+      terminal access. <br><a href="/devices/sunny/#twrp">Full details</a>
     call_to_action_name: Download TWRP
     call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
 
@@ -65,7 +63,7 @@ items:
     description: >
       Built on TWRP with a polished Material Design interface and fully integrated
       Magisk manager support for streamlined root installation — no sideloading required.
-      <a href="/devices/sunny/#orangefox">Full details</a>
+      <br><a href="/devices/sunny/#orangefox">Full details</a>
     call_to_action_name: Download OrangeFox
     call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
 
@@ -76,6 +74,6 @@ items:
     description: >
       A dark-themed recovery with a clean, minimal UI. Supports ADB sideloading and
       includes integrated tools for partition management and backups.
-      <a href="/devices/sunny/#pbrp">Full details</a>
+      <br><a href="/devices/sunny/#pbrp">Full details</a>
     call_to_action_name: Download PBRP
     call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
