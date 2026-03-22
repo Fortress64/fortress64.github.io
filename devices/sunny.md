@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Xiaomi Redmi Note 10 — Releases
 subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
 hero_height: is-fullwidth
 callouts: sunny
