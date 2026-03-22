@@ -21,7 +21,7 @@
     - name: Samsung installation
       link: /manuals/samsung-installation/
     - name: Device Unlock
-      link: /manual/device-unlock
+      link: /manuals/device-unlock
     - name: EDL recovery - debricking
       link: /manuals/edl-recovery/
 
