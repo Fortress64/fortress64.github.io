@@ -1,5 +1,5 @@
 ---
-subtitle: Fortress64
+title: Fortress64
 ---
 
 Fortress64 is a small team of Linux and GNU enthusiasts building privacy-respecting Android ROM and recovery releases for a select range of devices. Our builds are designed to reduce dependence on proprietary Google services while remaining practical for everyday use.
