@@ -25,7 +25,7 @@ title: LMODroid — Download
 
 ## Changelog
 
-*Refer to the [GitHub release page](https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest) for the full changelog.*
+*Changelog will be added with the next release.*
 
 ---
 
