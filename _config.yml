@@ -15,7 +15,7 @@ defaults:
 
 fixed_navbar: top
 force_theme: light
-theme_color: '#1a1a1a'
+theme_color: '#eeeeee'
 
 social:
   threads: https://www.threads.net/
