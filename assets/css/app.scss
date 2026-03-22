@@ -6,7 +6,7 @@ $primary: #2b2b2b;
 .navbar + section.hero::before {
   content: "";
   display: block;
-  background: url('logos/Fortress64-Logo-Transparent.webp') center no-repeat;
+  background: url('/img/logos/Fortress64-Logo-Transparent.webp') center no-repeat;
   background-size: contain;
   height: 120px;
   width: 100%;
