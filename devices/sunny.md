@@ -10,7 +10,7 @@ This page lists custom Android ROM and Recovery builds maintained for the Xiaomi
 
 ## Device Specifications
 
-![Device Specifications](/img/xiaomi/devices/Specs-Sunny.webp)
+![Device Specifications](/img/xiaomi/devices/specs-sunny.webp)
 
 ---
 
