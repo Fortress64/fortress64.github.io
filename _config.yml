@@ -11,7 +11,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_height: is-large
+      hero_height: is-fullwidth
       hero_image: /img/logos/Banner_Fortress64.webp
 
 
