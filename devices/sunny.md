@@ -1,5 +1,5 @@
 ---
-subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
+title: Xiaomi Redmi Note 10 (sunny/mojito)
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
