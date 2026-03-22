@@ -12,8 +12,6 @@ defaults:
     values:
       layout: page
       hero_height: is-fullwidth
-      hero_image: /img/logos/Banner_Fortress64.webp
-
 
 fixed_navbar: top
 force_theme: light
