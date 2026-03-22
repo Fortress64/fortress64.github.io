@@ -1,6 +1,5 @@
 items:
   - title: CrDroid+
-    subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
     image: /img/logos/CrDroid.webp
     description: >
@@ -12,7 +11,6 @@ items:
     call_to_action_link: /devices/sunny/crdroid/
 
   - title: LineageOS+
-    subtitle: Android 16 — Released October 23, 2025
     icon: fa-shield-alt
     image: /img/logos/LineageOS.webp
     description: >
@@ -24,7 +22,6 @@ items:
     call_to_action_link: /devices/sunny/lineageos/
 
   - title: e/OS
-    subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
     image: /img/logos/eOS.webp
     description: >
@@ -35,7 +32,6 @@ items:
     call_to_action_link: /devices/sunny/eos/
 
   - title: LMODroid
-    subtitle: Android 14 — Released February 5, 2025 (discontinued)
     icon: fa-download
     image: /img/logos/LMODroid.webp
     description: >
@@ -46,7 +42,6 @@ items:
     call_to_action_link: /devices/sunny/lmodroid/
 
   - title: TWRP
-    subtitle: Released July 10, 2025
     icon: fa-tools
     image: /img/logos/TWRP.webp
     description: >
@@ -57,7 +52,6 @@ items:
     call_to_action_link: /devices/sunny/twrp/
 
   - title: OrangeFox
-    subtitle: Released July 10, 2025
     icon: fa-tools
     image: /img/logos/OrangeFox.webp
     description: >
@@ -68,7 +62,6 @@ items:
     call_to_action_link: /devices/sunny/orangefox/
 
   - title: Pitch Black Recovery Project (PBRP)
-    subtitle: Released July 10, 2025
     icon: fa-tools
     image: /img/logos/PBRP.webp
     description: >
