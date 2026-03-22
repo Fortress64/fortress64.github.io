@@ -50,6 +50,7 @@ items:
   - title: TWRP
     subtitle: Released July 10, 2025
     icon: fa-tools
+    image: /img/logos/TWRP.webp
     description: >
       The most widely adopted custom recovery for Android. Provides a touch-based
       interface with ADB sideloading, full NANDroid backups, file management, and
@@ -60,6 +61,7 @@ items:
   - title: OrangeFox
     subtitle: Released July 10, 2025
     icon: fa-tools
+    image: /img/logos/OrangeFox.webp
     description: >
       Built on TWRP with a polished Material Design interface and fully integrated
       Magisk manager support for streamlined root installation — no sideloading required.
@@ -70,6 +72,7 @@ items:
   - title: PBRP
     subtitle: Released July 10, 2025
     icon: fa-tools
+    image: /img/logos/PBRP.webp
     description: >
       A dark-themed recovery with a clean, minimal UI. Supports ADB sideloading and
       includes integrated tools for partition management and backups.
