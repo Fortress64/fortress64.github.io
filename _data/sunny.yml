@@ -1,3 +1,5 @@
+style: is-light
+height: is-medium
 items:
   - title: CrDroid+
     subtitle: Android 16 — Released October 23, 2025
@@ -9,7 +11,7 @@ items:
       selection system. Fully passes SafetyNet attestation via MicroG.
       <br><a href="/devices/sunny/#crdroid">Full details</a>
     call_to_action_name: Download CrDroid+
-    call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
+    call_to_action_link: /devices/sunny/crdroid/
 
   - title: LineageOS+
     subtitle: Android 16 — Released October 23, 2025
@@ -21,7 +23,7 @@ items:
       updates, MicroG, and a configurable app selection system.
       <br><a href="/devices/sunny/#lineageos">Full details</a>
     call_to_action_name: Download LineageOS+
-    call_to_action_link: https://github.com/PTX64/releases_sunny_lineageos/releases/tag/latest
+    call_to_action_link: /devices/sunny/lineageos/
 
   - title: e/OS
     subtitle: Android 14 — Released February 5, 2025 (discontinued)
@@ -32,7 +34,7 @@ items:
       clean user experience. Development has been discontinued; downloads remain available
       for reference. <br><a href="/devices/sunny/#eos">Full details</a>
     call_to_action_name: Download e/OS
-    call_to_action_link: https://github.com/PTX64/releases_sunny_eos/releases/tag/latest
+    call_to_action_link: /devices/sunny/eos/
 
   - title: LMODroid
     subtitle: Android 14 — Released February 5, 2025 (discontinued)
@@ -43,7 +45,7 @@ items:
       has been discontinued; downloads remain available for reference.
       <br><a href="/devices/sunny/#lmodroid">Full details</a>
     call_to_action_name: Download LMODroid
-    call_to_action_link: https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest
+    call_to_action_link: /devices/sunny/lmodroid/
 
   - title: TWRP
     subtitle: Released July 10, 2025
@@ -54,7 +56,7 @@ items:
       interface with ADB sideloading, full NANDroid backups, file management, and
       terminal access. <br><a href="/devices/sunny/#twrp">Full details</a>
     call_to_action_name: Download TWRP
-    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+    call_to_action_link: /devices/sunny/twrp/
 
   - title: OrangeFox
     subtitle: Released July 10, 2025
@@ -65,9 +67,9 @@ items:
       Magisk manager support for streamlined root installation — no sideloading required.
       <br><a href="/devices/sunny/#orangefox">Full details</a>
     call_to_action_name: Download OrangeFox
-    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+    call_to_action_link: /devices/sunny/orangefox/
 
-  - title: PBRP
+  - title: Pitch Black Recovery Project (PBRP)
     subtitle: Released July 10, 2025
     icon: fa-tools
     image: /img/logos/PBRP.webp
@@ -76,4 +78,4 @@ items:
       includes integrated tools for partition management and backups.
       <br><a href="/devices/sunny/#pbrp">Full details</a>
     call_to_action_name: Download PBRP
-    call_to_action_link: https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest
+    call_to_action_link: /devices/sunny/pbrp/
