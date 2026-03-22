@@ -165,6 +165,8 @@ All three recoveries are available as both a bootable `.img` file and an install
 
 ### TWRP (Team Win Recovery Project)
 
+![TWRP Logo](/img/logos/TWRP.webp)
+
 TWRP is the most widely adopted custom recovery for Android. It provides a touch-based interface with support for ADB sideloading, full NANDroid backups, file management, and terminal access.
 
 #### Screenshot
@@ -173,6 +175,8 @@ TWRP is the most widely adopted custom recovery for Android. It provides a touch
 
 ### OrangeFox (OrangeFox Recovery Project)
 
+![OrangeFox Logo](/img/logos/OrangeFox.webp)
+
 OrangeFox is built on top of TWRP and extends it with a polished Material Design interface, built-in OTA update support, and fully integrated Magisk manager support for streamlined root installation — no sideloading required.
 
 #### Screenshot
@@ -180,6 +184,8 @@ OrangeFox is built on top of TWRP and extends it with a polished Material Design
 ![OrangeFox Screenshots](/img/xiaomi/screenshots/Xiaomi-OrangeFox.webp)
 
 ### PBRP (Pitch Black Recovery Project)
+
+![PBRP Logo](/img/logos/PBRP.webp)
 
 PBRP is a dark-themed recovery with a clean, minimal UI. It supports ADB sideloading and includes integrated tools for partition management and backups.
 
