@@ -1,5 +1,7 @@
 ---
-title: Xiaomi Redmi Note 10 (sunny/mojito)
+layout: page
+subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
+hero_height: is-fullwidth
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
@@ -10,7 +12,7 @@ This page lists custom Android ROM and Recovery builds maintained for the Xiaomi
 
 ## Device Specifications
 
-![Device Specifications](/img/xiaomi/devices/specs-sunny.webp)
+![Device Specifications](/img/xiaomi/devices/Specs-Sunny.webp)
 
 ---
 
@@ -27,6 +29,7 @@ This page lists custom Android ROM and Recovery builds maintained for the Xiaomi
 
 ## 1. ROM Releases
 
+<a name="crdroid"></a>
 ### 1.1 CrDroid+
 
 ![CrDroid Logo](/img/logos/CrDroid.webp)
@@ -73,6 +76,7 @@ All apps listed below are pre-installed but can be removed at any time.
 
 ---
 
+<a name="lineageos"></a>
 ### 1.2 LineageOS+
 
 ![LineageOS Logo](/img/logos/LineageOS.webp)
@@ -98,6 +102,7 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 ---
 
+<a name="eos"></a>
 ### 1.3 e/OS — **DISCONTINUED**
 
 ![e/OS Logo](/img/logos/eOS.webp)
@@ -129,6 +134,7 @@ Identical to the CrDroid+ app bundle. Refer to the [table above](#included-remov
 
 ---
 
+<a name="lmodroid"></a>
 ### 1.4 LMODroid — **DISCONTINUED**
 
 ![LMODroid Logo](/img/logos/LMODroid.webp)
@@ -161,6 +167,7 @@ All three recoveries are available as both a bootable `.img` file and an install
 
 **Magisk installation:** OrangeFox includes built-in Magisk flashing support directly from its UI. For TWRP and PBRP, navigate to `/Magisk/Magisk.zip` within the recovery interface and flash the zip from there.
 
+<a name="twrp"></a>
 ### TWRP (Team Win Recovery Project)
 
 ![TWRP Logo](/img/logos/TWRP.webp)
@@ -171,6 +178,7 @@ TWRP is the most widely adopted custom recovery for Android. It provides a touch
 
 ![TWRP Screenshots](/img/xiaomi/screenshots/Xiaomi-TWRP.webp)
 
+<a name="orangefox"></a>
 ### OrangeFox (OrangeFox Recovery Project)
 
 ![OrangeFox Logo](/img/logos/OrangeFox.webp)
@@ -181,6 +189,7 @@ OrangeFox is built on top of TWRP and extends it with a polished Material Design
 
 ![OrangeFox Screenshots](/img/xiaomi/screenshots/Xiaomi-OrangeFox.webp)
 
+<a name="pbrp"></a>
 ### PBRP (Pitch Black Recovery Project)
 
 ![PBRP Logo](/img/logos/PBRP.webp)
