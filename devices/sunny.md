@@ -1,5 +1,7 @@
 ---
-title: Xiaomi Redmi Note 10 (sunny/mojito)
+layout: page
+subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
+hero_height: is-fullwidth
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
@@ -188,7 +190,7 @@ OrangeFox is built on top of TWRP and extends it with a polished Material Design
 ![OrangeFox Screenshots](/img/xiaomi/screenshots/Xiaomi-OrangeFox.webp)
 
 <a name="pbrp"></a>
-### PBRP (Pitch Black Recovery Project)
+### Pitch Black Recovery Project (PBRP)
 
 ![PBRP Logo](/img/logos/PBRP.webp)
 
