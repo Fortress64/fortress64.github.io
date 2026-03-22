@@ -1,7 +1,5 @@
 ---
-layout: page
-subtitle: Xiaomi Redmi Note 10 (sunny/mojito)
-hero_height: is-fullwidth
+title: Xiaomi Redmi Note 10 (sunny/mojito)
 callouts: sunny
 ---
 # Custom ROM and Recovery Releases
