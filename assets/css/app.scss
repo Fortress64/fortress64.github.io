@@ -4,12 +4,12 @@ $primary: #0041b7;
 @use "main";
 
 body {
-  background-color: #1a1a2e !important;
-  color: #e0e0e0 !important;
+  background-color: #f7f7f7 !important;
+  color: #1b1b1b !important;
 }
 
 .hero {
-  background: linear-gradient(135deg, #0041b7 0%, #0f0f1a 100%) !important;
+  background-color: #0041b7 !important;
 }
 
 .hero .title, .hero .subtitle {
@@ -17,12 +17,7 @@ body {
 }
 
 .navbar {
-  background-color: #0f0f1a !important;
-}
-
-.card {
-  background-color: #16213e !important;
-  color: #e0e0e0 !important;
+  background-color: #0041b7 !important;
 }
 
 a:hover {
@@ -32,8 +27,8 @@ a:hover {
 .navbar + section.hero::before {
   content: "";
   display: block;
-  background-color: #0f0f1a;
-  background-image: url('/img/logos/Fortress64-Logo-Transparent-Light.webp');
+  background-color: #f7f7f7;
+  background-image: url('/img/logos/Fortress64-Logo-Transparent-Dark.webp');
   background-position: center;
   background-repeat: no-repeat;
   height: 150px;
