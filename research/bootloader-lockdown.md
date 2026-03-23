@@ -1,7 +1,6 @@
 ---
 title: Bootloader & EDL Lockdown is Illegal.
 ---
-
 # We Are Done Asking Permission to Use Our Own Devices
 ### A legal and technical case against bootloader locking — and a call to act
 
@@ -11,11 +10,13 @@ title: Bootloader & EDL Lockdown is Illegal.
 
 Since last year, buying a device no longer means owning it. Samsung did it through outright removal. Xiaomi did it through deliberate attrition. Hundreds of millions of devices are affected.
 
-Samsung removed all bootloader unlock capability from One UI 8 — globally, permanently, without exception. Devices shipped with One UI 8 cannot be unlocked. Older devices updated to One UI 8 face the same outcome. And with every monthly security patch incrementing the bootloader revision number, rolling back to an unlockable version becomes permanently impossible — all of it [tracked here](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/samsung/README.md).
+Samsung removed all bootloader unlock capability from One UI 8 — globally, permanently, without exception. Devices shipped with One UI 8 cannot be unlocked. Older devices updated to One UI 8 face the same outcome. And with every monthly security patch incrementing the bootloader revision number, rolling back to an unlockable version becomes permanently impossible.
 
-Xiaomi has taken a different approach — not an outright ban, but years of escalating attrition. Each new restriction narrowed the window further, until unlocking became a lottery: a global daily quota exhausted within seconds of midnight Beijing Time, leaving thousands of qualifying users empty-handed — regardless of whether they qualify. The full history is documented at the [bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md).
+Xiaomi has taken a different approach — not an outright ban, but years of escalating attrition. Each new restriction narrowed the window further, until unlocking became a lottery: a global daily quota exhausted within seconds of midnight Beijing Time, leaving thousands of qualifying users empty-handed — regardless of whether they qualify.
 
 The result: you own the hardware, but not the right to use it. Independent repair is killed, electronic waste accelerates, manufacturer software cannot be audited, and an entire ecosystem of community software — the only thing keeping older devices alive — is locked out.
+
+The full picture across both manufacturers is documented at [fortress64.github.io](https://fortress64.github.io/research/vendor-restrictions/).
 
 ---
 
@@ -158,7 +159,7 @@ I have never been comfortable with software I cannot inspect or control. When th
 
 ### Who the manufacturers are
 
-The community resource [bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) tracks this across manufacturers.
+The community resource [fortress64.github.io](https://fortress64.github.io/research/vendor-restrictions/) tracks this across manufacturers.
 
 **Complete lockdown:** Amazon, Apple, Huawei, Samsung (One UI 8+), TCL/BlackBerry, Vivo/iQOO
 
@@ -200,11 +201,13 @@ It was not blocked. Which means the BMS cutoff was either set above 4.45V by the
 
 ### Thermal Runaway — The Safety Dimension
 
-Pushing a lithium-ion cell above its rated voltage is not just a longevity issue — it is a safety one. Cells under overvoltage stress are at increased risk of thermal runaway, particularly when the battery is already warm. Charging a device to 100% on a warm day, with battery temperatures above 35–45°C, while firmware pushes the cell to 4.47V, creates the conditions for the battery to bloat, vent, or in serious cases ignite. These failures happen in the real world — phones left charging on warm surfaces, in cars, or in direct sunlight are operating in exactly these conditions.
+Pushing a lithium-ion cell above its rated voltage is not just a longevity issue — it is a safety one. Cells under overvoltage stress are at increased risk of thermal runaway, particularly when the battery is already warm. Charging a device to 100% on a warm day, with battery temperatures above 35–45°C, while firmware pushes the cell to 4.47V, creates the conditions for the battery to bloat, vent, or in serious cases ignite. These failures happen in the real world — phones left charging on warm surfaces, in cars, or in direct sunlight, or held for extended periods while gaming or making long calls, are all operating in exactly these conditions.
 
 ### The Masking Layer
 
 The kernel distributed with the device sets these aggressive voltage limits directly in its power management drivers — parameters such as `qcom,float-voltage-mv` that define the charge ceiling at the hardware level. The manufacturer's Xiaomi firmware ships with these values set above the cell's rated maximum. Without bootloader access, users cannot modify these drivers or replace the kernel with one that brings the charge ceiling down to a sustainable 4.45V.
+
+Xiaomi's own battery management app compensates for this in software — actively managing the charge ceiling at the application layer to mask the underlying kernel defaults. When a custom ROM runs without that app, the compensation layer is gone. The kernel defaults take over, unchecked. The problem was always there — the app was hiding it. The custom ROM made it visible.
 
 Only a replacement kernel — which requires an unlocked bootloader — can address the root cause. The bootloader lock is what prevents the fix.
 
