@@ -3,16 +3,39 @@
 $primary: #0041b7;
 @use "main";
 
-.navbar + section.hero::before {
-  content: "";
-  display: block;
-  background-image: url('https://github.com/Fortress64/fortress64.github.io/blob/main/img/logos/Fortress64-Logo-Transparent-Light.webp');
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 150px;
-  width: 100%;
+body {
+  background-color: #1a1a2e !important;
+  color: #e0e0e0 !important;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0041b7 0%, #0f0f1a 100%) !important;
+}
+
+.hero .title, .hero .subtitle {
+  color: #ffffff !important;
+}
+
+.navbar {
+  background-color: #0f0f1a !important;
+}
+
+.card {
+  background-color: #16213e !important;
+  color: #e0e0e0 !important;
 }
 
 a:hover {
   color: #b70000 !important;
+}
+
+.navbar + section.hero::before {
+  content: "";
+  display: block;
+  background-color: #0f0f1a;
+  background-image: url('/img/logos/Fortress64-Logo-Transparent-Light.webp');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
 }
