@@ -1,13 +1,20 @@
 ---
 ---
+$primary: #0041b7;
 @use "main";
+
+:root {
+  color-scheme: light only;
+}
 
 .navbar + section.hero::before {
   content: "";
   display: block;
-  background-image: url('/img/logos/Fortress64-Logo-Transparent-Light.webp');
+  background-color: #0d0d0d;
+  background-image: url('/img/logos/Fortress64-Logo-Transparent-Light-Banner.webp');
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 60%;
   height: 150px;
   width: 100%;
 }
