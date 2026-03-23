@@ -14,8 +14,8 @@ defaults:
       hero_height: is-fullwidth
 
 fixed_navbar: top
-force_theme: light
-theme_color: '#eeeeee'
+force_theme: dark
+theme_color: '#0f0f1a'
 
 social:
   threads: https://www.threads.net/
